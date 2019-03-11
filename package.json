@@ -1,0 +1,30 @@
+{
+  "name": "rectangle",
+  "version": "1.0.0",
+  "description": "矩形",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxiulian/rectangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxiulian/rectangle/issues"
+  },
+  "homepage": "https://github.com/wangxiulian/rectangle#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.3",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-eslint": "^21.0.0",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-mocha-cli": "^4.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.0.2"
+  }
+}
